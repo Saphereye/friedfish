@@ -1,0 +1,2 @@
+Program { input: "nnspo", accumulator: 0, instruction_pointer: 0, bool_flag: false, counter: 0 }
+7
