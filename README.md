@@ -1,0 +1,1 @@
+A dig at making my own turing complete programming language that is super annoying to use :)
